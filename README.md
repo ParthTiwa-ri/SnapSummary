@@ -48,11 +48,12 @@ This application allows users to upload PDF and image files, extract text from t
 
 ## 🚀 Usage
 
-- Visit the [Document Summary Assistant Portal](https://your-website-link.com) to explore the features.
 - **Upload Document**: Drag and drop your PDF or image file to the upload area or use the file picker. Scanned images are processed with OCR.
 - **Generate Summary**: After the document is uploaded, the app will process it and generate a summary. Choose between short, medium, or long summary options.
 
-- **View and Download**: After the summary is generated, you can view it and download it for your records.
+- **View Summary**: After the summary is generated, you can view it.
+
+- **View Extracted Text**: After the processing is completed, you can view extracted Text.
 
 ## 🛠️ Installation
 
@@ -61,13 +62,13 @@ To run the application locally:
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/your-username/document-summary-assistant.git
+   git clone https://github.com/ParthTiwa-ri/SnapSummary.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd document-summary-assistant
+   cd SnapSummary
    ```
 
 3. **Install dependencies:**
@@ -90,5 +91,3 @@ To run the application locally:
 ![Summary Page](https://your-image-link.com/summary-screenshot.png)
 
 ---
-
-Feel free to adjust the URLs and any additional details as needed. This README covers your app's core features, usage instructions, and installation steps, giving users a comprehensive guide.
