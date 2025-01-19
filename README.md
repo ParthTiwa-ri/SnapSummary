@@ -27,16 +27,14 @@ This application allows users to upload PDF and image files, extract text from t
 - **React**: For building the user interface and managing component-based architecture.
 - **Tesseract.js**: For OCR text extraction from image files (scanned documents).
 - **PDF.js**: For parsing and extracting text from PDF files.
-- **Node.js**: Backend server for handling file uploads and processing.
-- **Express.js**: Framework for building the backend server and handling requests.
-- **CSS Modules**: For scoped and modular styling.
-- **Bootstrap/TailwindCSS**: For responsive, mobile-first design.
+- **NextJS**: For server-side rendering and API integration.
+
+- **TailwindCSS**: For responsive, mobile-first design.
 
 ### Shields
 
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=for-the-badge&labelColor=black&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)  
 ![Tesseract](https://img.shields.io/badge/-Tesseract-1C6AA0?style=for-the-badge&labelColor=black&logo=tesseract&logoColor=white)
 ![PDF.js](https://img.shields.io/badge/-PDF.js-000000?style=for-the-badge&labelColor=black&logo=pdf&logoColor=red)
 
