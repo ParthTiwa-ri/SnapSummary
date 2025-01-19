@@ -1,0 +1,42 @@
+{
+  "textSection": {
+    "title": "Smart Summaries at Your Fingertips",
+    "highlight": "at Your Fingertips",
+    "description": "Simplify your workflow with SnapSummary! Upload any document or image, and let our AI-powered assistant generate clear, concise summaries tailored to your needs.",
+    "buttons": [
+      {
+        "text": "Upload Now",
+        "link": "./upload",
+        "className": "bg-[#E91515] text-white text-base font-semibold px-4 sm:px-8 py-2 sm:py-4 rounded-md hover:bg-red-600 transition"
+      },
+      {
+        "text": "Learn More →",
+        "link": "./learnmore",
+        "className": "text-white border text-base border-white px-4 sm:px-8 py-2 sm:py-4 rounded-md hover:bg-white hover:text-black transition"
+      }
+    ]
+  },
+  "imageSection": [
+    {
+      "src": "/dragDrop.webp",
+      "alt": "Drag and Drop Files",
+      "width": 288,
+      "height": 192,
+      "className": "object-cover rounded-md"
+    },
+    {
+      "src": "/ocr.png",
+      "alt": "OCR Technology",
+      "width": 288,
+      "height": 192,
+      "className": "object-cover rounded-md"
+    },
+    {
+      "src": "/ai.jpg",
+      "alt": "AI-Powered Summaries",
+      "width": 384,
+      "height": 288,
+      "className": "object-cover rounded-md"
+    }
+  ]
+}
