@@ -71,27 +71,34 @@ To run the application locally:
    cd SnapSummary
    ```
 
-3. **Install dependencies:**
+3. **Create a `.env` file** in the root directory and add the following:
+
+   ```
+   GOOGLE_API_KEY=your_gemini_api_key_here
+   ```
+
+   You can fetch the API key from the Google Gemini API Developer Portal.
+
+4. **Install dependencies:**
 
    ```bash
    npm install
    ```
 
-4. **Start the development server:**
+5. **Start the development server:**
 
    ```bash
    npm run dev
    ```
 
-5. **Open your browser and visit the development server link to view the application.**
+6. **Open your browser and visit the development server link to view the application.**
 
 ## 🖼️ Screenshots
+
 <img width="1440" alt="Screenshot 2025-01-19 at 4 33 48 PM" src="https://github.com/user-attachments/assets/ad0bf9d2-1e5e-41eb-8369-87ac732c2ec9" />
 <img width="1440" alt="Screenshot 2025-01-19 at 4 33 55 PM" src="https://github.com/user-attachments/assets/93fca737-d4a0-49aa-8996-19cd1997baab" />
 <img width="1440" alt="Screenshot 2025-01-19 at 4 34 45 PM" src="https://github.com/user-attachments/assets/7c26cbe0-ba30-4f0d-9e34-a3608d62c83b" />
 <img width="1440" alt="Screenshot 2025-01-19 at 4 34 58 PM" src="https://github.com/user-attachments/assets/7a9ce4bf-ad4e-4869-a735-cd9c2772ecd8" />
 <img width="1440" alt="Screenshot 2025-01-19 at 4 35 04 PM" src="https://github.com/user-attachments/assets/7938f4b1-aa51-4920-bbdf-61515a819f42" />
-
-
 
 ---
