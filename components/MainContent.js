@@ -9,7 +9,8 @@ function MainContent() {
         {/* Text Section */}
         <div className="text-left lg:w-1/2">
           <h1 className="text-4xl sm:text-6xl font-bold mb-6">
-            {data.textSection.title.split(" ")[0]} <br />
+            {data.textSection.title.split(" ")[0]}{" "}
+            {data.textSection.title.split(" ")[1]} <br />
             <span className="text-[#E91515]">{data.textSection.highlight}</span>
           </h1>
           <p className="sm:text-lg text-base mb-8">
