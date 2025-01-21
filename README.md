@@ -101,4 +101,9 @@ To run the application locally:
 <img width="1440" alt="Screenshot 2025-01-19 at 4 34 58 PM" src="https://github.com/user-attachments/assets/7a9ce4bf-ad4e-4869-a735-cd9c2772ecd8" />
 <img width="1440" alt="Screenshot 2025-01-19 at 4 35 04 PM" src="https://github.com/user-attachments/assets/7938f4b1-aa51-4920-bbdf-61515a819f42" />
 
+## Demo Video
+
+https://github.com/user-attachments/assets/f23b68f0-7e7b-4c45-ae6a-108607368531
+
+
 ---
